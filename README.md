@@ -49,14 +49,14 @@ Misc
 
 Programming Languages and Tools
 
-|                            | Experience (years) |
-|----------------------------|--------------------|
-| __Blockchain__             | _4_                |
-| __Smart Contracts__        | _4_                |
-| __Solidity__               | _4_                |
-| __Hardhat__                | _4_                |
-| __Foundry__                | _2_                |
-| __ERERC20, C721, ERC721A__ | _4_                |
+|                                                                         | Experience (years) |
+|-------------------------------------------------------------------------|--------------------|
+| __Blockchain__                                                          | _4_                |
+| __Smart Contracts__                                                     | _4_                |
+| __Solidity__                                                            | _4_                |
+| __Hardhat__                                                             | _4_                |
+| __Foundry__                                                             | _2_                |
+| __ERC721, ERC721(A), ERC1155, EIP-2981, ERC20, ERC173, ERC712, EIP1271__ | _4_                |
 
 💬 Contact me for: ...
 
